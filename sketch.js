@@ -28,7 +28,7 @@ function draw() {
   pop()
   
   push();
-  translate(180, 120, 0);
+  translate(120, 120, 0);
   noStroke();
   fill("lightpink");
   rotateX(h);
