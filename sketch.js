@@ -35,4 +35,8 @@ function draw() {
   rotateY(h);
   box(120, 120, 120);
   pop()
+  
+  print(h);
+  print(m);
+  print(s);
 }
