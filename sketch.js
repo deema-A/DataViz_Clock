@@ -10,7 +10,7 @@ function draw() {
   background(0);
   
   push();
-  translate(-150, 0, 0);
+  translate(-150, -100, 0);
   noStroke();
   fill("lightblue");
   rotateX(s);
@@ -28,7 +28,7 @@ function draw() {
   pop()
   
   push();
-  translate(180, 0, 0);
+  translate(180, 120, 0);
   noStroke();
   fill("lightpink");
   rotateX(h);
